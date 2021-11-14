@@ -29,6 +29,7 @@ sap-api-events は、オンプレミス版である（＝クラウド版では�
 * [Sales Pricing Condition Record Events](https://api.sap.com/event/SAPS4HANABusinessEvents_SalesPricingConditionRecordEvents/overview)
 * [Sales Order Events](https://api.sap.com/event/SAPS4HANABusinessEvents_SalesOrderEvents/overview)  
 * [Outbound Delivery Events](https://api.sap.com/event/SAPS4HANABusinessEvents_OutboundDeliveryEvents/overview)  
+* [Customer Return Events](https://api.sap.com/event/SAPS4HANABusinessEvents_CustomerReturnEvents/overview)  
 * [Billing Document Events](https://api.sap.com/event/SAPS4HANABusinessEvents_BillingDocumentEvents/overview)  
 
 ### Procurement Management  
@@ -36,6 +37,7 @@ sap-api-events は、オンプレミス版である（＝クラウド版では�
 * [Business Partner Events](https://api.sap.com/event/SAPS4HANABusinessEvents_BusinessPartnerEvents/overview)
 * [Purchase Requisition Events](https://api.sap.com/event/SAPS4HANABusinessEvents_PurchaseRequisitionEvents/overview)  
 * [Purchase Order Events](https://api.sap.com/event/SAPS4HANABusinessEvents_PurchaseOrderEvents/overview)  
+* [Supplier Invoice Events](https://api.sap.com/event/SAPS4HANABusinessEvents_SupplierInvoiceEvents/overview)  
 
 ### Production Management  
 
