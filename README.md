@@ -35,6 +35,7 @@ sap-api-events は、オンプレミス版である（＝クラウド版では�
 ### Procurement Management  
 
 * [Business Partner Events](https://api.sap.com/event/SAPS4HANABusinessEvents_BusinessPartnerEvents/overview)
+* [Purchasing Info Record Events](https://api.sap.com/event/SAPS4HANABusinessEvents_PurchasingInfoRecord/overview)  
 * [Purchase Requisition Events](https://api.sap.com/event/SAPS4HANABusinessEvents_PurchaseRequisitionEvents/overview)  
 * [Purchase Order Events](https://api.sap.com/event/SAPS4HANABusinessEvents_PurchaseOrderEvents/overview)  
 * [Supplier Invoice Events](https://api.sap.com/event/SAPS4HANABusinessEvents_SupplierInvoiceEvents/overview)  
