@@ -28,6 +28,7 @@ sap-api-events は、オンプレミス版である（＝クラウド版では�
 * [Business Partner Events](https://api.sap.com/event/SAPS4HANABusinessEvents_BusinessPartnerEvents/overview)
 * [Sales Pricing Condition Record Events](https://api.sap.com/event/SAPS4HANABusinessEvents_SalesPricingConditionRecordEvents/overview)
 * [Sales Inquiry Events](https://api.sap.com/event/SAPS4HANABusinessEvents_SalesInquiryEvents/overview)
+* [Sales Quotation Events](https://api.sap.com/event/SAPS4HANABusinessEvents_SalesQuotationEvents/overview)
 * [Sales Order Events](https://api.sap.com/event/SAPS4HANABusinessEvents_SalesOrderEvents/overview)  
 * [Outbound Delivery Events](https://api.sap.com/event/SAPS4HANABusinessEvents_OutboundDeliveryEvents/overview)  
 * [Customer Return Events](https://api.sap.com/event/SAPS4HANABusinessEvents_CustomerReturnEvents/overview)  
