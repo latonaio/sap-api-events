@@ -30,6 +30,8 @@ sap-api-events は、オンプレミス版である（＝クラウド版では�
 * [Sales Inquiry Events](https://api.sap.com/event/SAPS4HANABusinessEvents_SalesInquiryEvents/overview)
 * [Sales Quotation Events](https://api.sap.com/event/SAPS4HANABusinessEvents_SalesQuotationEvents/overview)
 * [Sales Order Events](https://api.sap.com/event/SAPS4HANABusinessEvents_SalesOrderEvents/overview)  
+* [Sales Contract](https://api.sap.com/event/SAPS4HANABusinessEvents_SalesContractEvents/overview)
+* [Sales Scheduling Agreement Events](https://api.sap.com/event/SAPS4HANABusinessEvents_SalesSchedulingAgreementEvents/overview)
 * [Outbound Delivery Events](https://api.sap.com/event/SAPS4HANABusinessEvents_OutboundDeliveryEvents/overview)  
 * [Customer Return Events](https://api.sap.com/event/SAPS4HANABusinessEvents_CustomerReturnEvents/overview)  
 * [Billing Document Events](https://api.sap.com/event/SAPS4HANABusinessEvents_BillingDocumentEvents/overview)  
@@ -40,6 +42,7 @@ sap-api-events は、オンプレミス版である（＝クラウド版では�
 * [Purchasing Info Record Events](https://api.sap.com/event/SAPS4HANABusinessEvents_PurchasingInfoRecord/overview)  
 * [Purchase Requisition Events](https://api.sap.com/event/SAPS4HANABusinessEvents_PurchaseRequisitionEvents/overview)  
 * [Purchase Order Events](https://api.sap.com/event/SAPS4HANABusinessEvents_PurchaseOrderEvents/overview)  
+* [Purchase Scheduling Agreement Events](https://api.sap.com/event/SAPS4HANABusinessEvents_PurchaseSchedulingAgreementEvents/overview)
 * [Supplier Invoice Events](https://api.sap.com/event/SAPS4HANABusinessEvents_SupplierInvoiceEvents/overview)  
 
 ### Production Management  
