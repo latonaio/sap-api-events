@@ -12,6 +12,7 @@ sap-api-events は、オンプレミス版である（＝クラウド版では�
 ### Central Functions  
 
 * [Business User Events](https://api.sap.com/event/SAPS4HANABusinessEvents_BusinessUserEvents/overview)
+* [Classification Events](https://api.sap.com/event/SAPS4HANACloudBusinessEvents_ClassificationClassEvents/overview)
 * [Characteristic Events](https://api.sap.com/event/SAPS4HANABusinessEvents_ClassificationCharactersticEvents/overview)
 * [Business Partner Events](https://api.sap.com/event/SAPS4HANABusinessEvents_BusinessPartnerEvents/overview)
 
