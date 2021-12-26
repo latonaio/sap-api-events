@@ -58,6 +58,7 @@ sap-api-events は、オンプレミス版である（＝クラウド版では�
 ### Plant Management  
 
 * [Equipment Events](https://api.sap.com/event/SAPS4HANABusinessEvents_EquipmentEvents/overview)  
+* [Maintenance Order Confirmation Events](https://api.sap.com/event/SAPS4HANABusinessEvents_MaintenanceOrderConfirmationEvents/overview)  
 
 ### Customer Service 
 
