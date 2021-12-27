@@ -62,4 +62,5 @@ sap-api-events は、オンプレミス版である（＝クラウド版では�
 
 ### Customer Service 
 
-* [Service Order Events](https://api.sap.com/event/SAPS4HANABusinessEvents_ServiceOrderEvents/overview)
+* [Service Order Events](https://api.sap.com/event/SAPS4HANABusinessEvents_ServiceOrderEvents/overview)]
+* [Service Confirmation Events](https://api.sap.com/event/SAPS4HANABusinessEvents_ServiceConfirmationEvents/overview)
