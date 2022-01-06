@@ -56,12 +56,13 @@ sap-api-events は、オンプレミス版である（＝クラウド版では�
 * [Work Center Events](https://api.sap.com/event/SAPS4HANABusinessEvents_WorkCenterEvents/overview)  
 * [Production Order Events](https://api.sap.com/event/SAPS4HANABusinessEvents_ProductionOrderEvents/overview)  
 
-### Plant Management  
+### Plant Maintenance  
 
+* [Functional Location Events](https://api.sap.com/event/SAPS4HANACloudBusinessEvents_FunctionalLocationEvents/overview)
 * [Equipment Events](https://api.sap.com/event/SAPS4HANABusinessEvents_EquipmentEvents/overview)  
+* [Maintenance Order Confirmation Events](https://api.sap.com/event/SAPS4HANABusinessEvents_MaintenanceOrderConfirmationEvents/overview)  
 * [Measuring Point Events](https://github.com/latonaio/sap-api-integrations-measuring-point-events)
 * [Measurement Document Events](https://api.sap.com/event/SAPS4HANACloudBusinessEvents_MeasurementDocumentEvents/overview)
-* [Maintenance Order Confirmation Events](https://api.sap.com/event/SAPS4HANABusinessEvents_MaintenanceOrderConfirmationEvents/overview)  
 
 ### Customer Service 
 
