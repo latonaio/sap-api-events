@@ -39,6 +39,8 @@ sap-api-events は、オンプレミス版である（＝クラウド版では�
 * [Outbound Delivery Events](https://api.sap.com/event/SAPS4HANABusinessEvents_OutboundDeliveryEvents/overview)  
 * [Customer Return Events](https://api.sap.com/event/SAPS4HANABusinessEvents_CustomerReturnEvents/overview)  
 * [Billing Document Events](https://api.sap.com/event/SAPS4HANABusinessEvents_BillingDocumentEvents/overview)  
+* [Credit Memo Request Events](https://api.sap.com/event/SAPS4HANACloudBusinessEvents_CreditMemoRequestEvents/overview)
+* [Debit Memo Request Events](https://api.sap.com/event/SAPS4HANACloudBusinessEvents_CreditMemoRequestEvents/overview)
 
 ### Procurement Management  
 
