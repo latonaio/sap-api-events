@@ -63,6 +63,7 @@ sap-api-events は、オンプレミス版である（＝クラウド版では�
 * [Functional Location Events](https://api.sap.com/event/SAPS4HANACloudBusinessEvents_FunctionalLocationEvents/overview)
 * [Equipment Events](https://api.sap.com/event/SAPS4HANABusinessEvents_EquipmentEvents/overview) 
 * [Maintenance Bill of Material Events](https://api.sap.com/event/SAPS4HANABusinessEvents_MaintenanceBillOfMaterialEvents/overview) 
+* [Maintenance Notification Events](https://api.sap.com/event/SAPS4HANABusinessEvents_MaintenanceNotificationEvents/overview) 
 * [Maintenance Order Confirmation Events](https://api.sap.com/event/SAPS4HANABusinessEvents_MaintenanceOrderConfirmationEvents/overview)  
 * [Maintenance Task List Events](https://api.sap.com/event/SAPS4HANABusinessEvents_MaintenanceTaskListEvents/overview)
 * [Measuring Point Events](https://github.com/latonaio/sap-api-integrations-measuring-point-events)
