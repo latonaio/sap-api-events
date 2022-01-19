@@ -58,6 +58,10 @@ sap-api-events は、オンプレミス版である（＝クラウド版では�
 * [Work Center Events](https://api.sap.com/event/SAPS4HANABusinessEvents_WorkCenterEvents/overview)  
 * [Production Order Events](https://api.sap.com/event/SAPS4HANABusinessEvents_ProductionOrderEvents/overview)  
 
+### Process Management  
+
+* [Process Order Events](https://api.sap.com/event/SAPS4HANABusinessEvents_ProcessOrderEvents/overview) 
+
 ### Quality Management
 
 * [Inspection Plan Events](https://api.sap.com/event/SAPS4HANABusinessEvents_InspectionPlanEvents/overview)  
